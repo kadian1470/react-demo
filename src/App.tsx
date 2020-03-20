@@ -1,7 +1,8 @@
 import React from "react";
-import Corporations from "./components/Corporations";
+import Corporations from "./Corporations";
 
-function App(): JSX.Element {
-  return <Corporations></Corporations>;
+function App() {
+  return <Corporations />;
 }
+
 export default App;
